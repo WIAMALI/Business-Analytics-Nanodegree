@@ -1,6 +1,6 @@
+# QUERY 1
 ```
-/* QUERY 1 */
-/*Set 1: Lists the countries have the most Invoices*/
+Set 1: Lists the countries have the most Invoices*/
 SELECT billingcountry, COUNT(invoiceid) AS invoices
 FROM invoice 
 GROUP BY billingcountry
