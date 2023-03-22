@@ -40,3 +40,4 @@ to assist the store in better understanding the types of music purchased, where 
 
 In this project, I'll use Tableau to create interactive dashboards that will be used to discover and communicate data insights. I'll use a dataset of 
 flight delays in the United States to visualize airline and airport quality, find the best times to fly, and more.
+[Project](https://github.com/WIAMALI/Business-Analytics-Nanodegree/blob/main/Data%20Visualization/DATA%20VISUALIZATION%20IN%20TABLEAU.pdf)
