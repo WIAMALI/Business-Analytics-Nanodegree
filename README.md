@@ -28,7 +28,7 @@ forecast financial metrics based on three different scenarios for a company.
 
 In this project, I will query a database containing information about a digital music store's media, employees, and customers. I plan to use the database 
 to assist the store in better understanding the types of music purchased, where customers live, and how the company can improve its business practices.
-
+[Project](https://github.com/WIAMALI/Business-Analytics-Nanodegree/blob/main/SQL%20for%20Data%20Analysis/SQL%20Project.pdf)
 
 
 # [Data Visualization](https://pages.github.com/)
