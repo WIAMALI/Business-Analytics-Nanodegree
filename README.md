@@ -12,12 +12,12 @@ business scenarios, and communicating your findings with Excel, SQL, and Tableau
 > Excel functions, the creation of Excel models, and statistical analysis. 
 
 
-#### Project - Analyze Survey Data
+#### Project - Analyze Survey Data 
 
 In this project, I explored Udacity marketing surveillance data. 
 I analyzed data from over 500 New York Stock Exchange companies using statistics and spreadsheet programs such as Excel. Then, using the NYSE dataset, I
 forecast financial metrics based on three different scenarios for a company.
-
+[Project](https://github.com/WIAMALI/Business-Analytics-Nanodegree/blob/main/Introduction%20to%20Data/Project%20NYSE%20Data.pdf)
 
 
 # [SQL for Data Analysis](https://pages.github.com/)
