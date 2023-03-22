@@ -1,9 +1,11 @@
+```
 /* QUERY 1 */
 /*Set 1: Lists the countries have the most Invoices*/
 SELECT billingcountry, COUNT(invoiceid) AS invoices
 FROM invoice 
 GROUP BY billingcountry
 ORDER BY invoices desc;
+```
 
 /* QUERY 2 */
 /*Set 1: Lists the city has the best customers*/
